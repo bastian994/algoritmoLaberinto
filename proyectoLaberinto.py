@@ -1,15 +1,5 @@
 import sys              #IMPORTA EL MODULO SYS, PARA UTILIZAR SYS.EXIT 
 
-# -*- coding: cp1252 -*-
-
-# Este programa tiene como fin poder solucionar un laberinto que ya fue
-#predeterminado por el programador, el laberinto será adjuntado en un
-#archivo de texto como entrada y #tendrá como salida el mismo laberinto
-#con su ruta a la salida.
-
-# Identificación (Alonso Aguilera, Verónica Flores, Matías Maturana,
-#Rodrigo Olivares, Valentina Salinas; v 0.1, 16/05/2016)
-
 
 # -------------BLOQUE DE DEFINICIÓN------------
 
